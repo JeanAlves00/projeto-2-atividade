@@ -38,10 +38,6 @@ form input {
     box-sizing: border-box;
 }
 
-button {
-    display: flex;
-}
-
 form button {
     padding: 10px;
     cursor: pointer;
